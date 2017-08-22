@@ -6,7 +6,7 @@ EXTRA_STREAM for onNewIntent() works in this version
 Phonegap/Cordova 2.X version available at the [WebIntent](https://github.com/phonegap/phonegap-plugins/tree/master/Android/WebIntent) plugin site.
 
 
-Forked from the version [pbakondy]((https://github.com/pbakondy/webintent) github project.
+Forked from the version [pbakondy](https://github.com/pbakondy/webintent) github project.
 
 
 ## Adding the Plugin to your project ##
